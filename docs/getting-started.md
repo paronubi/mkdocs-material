@@ -141,7 +141,7 @@ The following plugins are bundled with the Docker image:
 
   [third-party image]: https://github.com/afritzler/mkdocs-material
 
-### with git
+### with twit
 
 Material for MkDocs can be directly used from [GitHub] by cloning the
 repository into a subfolder of your project root which might be useful if you
